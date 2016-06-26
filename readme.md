@@ -1,0 +1,1 @@
+This repository contains support files for for my RaspberryPi powered Macintosh Classic project [documented here](http://johan.kanflo.com/another-raspberry-pi-powered-macintosh-classic).
